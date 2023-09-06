@@ -1,0 +1,3 @@
+[submodule "frontendMain"]
+	path = frontendMain
+	url = git@github.com:sidharth-jamuar/videoCallfrontendSubmodule.git
